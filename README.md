@@ -12,5 +12,5 @@ The dataset comprises of informationof ollowing Parameters
 
 # Tool
 For this Project the following paython libaries were used
-* pandas for Data ANalsyis
+* pandas for Data Analsyis
 * Seaborn for visualtion
