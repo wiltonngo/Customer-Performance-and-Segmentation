@@ -1,4 +1,4 @@
-# InstaCart Pyton Project
+# Customer Performance and Segmentation
 This was a Data Analytics Project conduction in Pyton Part of the CareerFoundry.
 
 # Objective
